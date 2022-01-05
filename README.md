@@ -18,6 +18,9 @@ Besides programming, I enjoy working with even more technology! This past year I
 - Node.js (Express / Koa)
 - Jest / React Testing Library / Cypress
 - Vite
+- PostgreSQL
+- Terraform
+- AWS (Lambda, ECS, EC2)
 
 ### ⚡ Technologies I'm learning more about right now!
 
