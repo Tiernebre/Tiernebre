@@ -10,7 +10,11 @@ Since graduating, I've been working as a software engineer helping companies and
 
 Besides programming, I enjoy working with even more technology! This past year I setup a home server to serve as a file storage backup and media hoster on my network. I also enjoy cycling, playing video games, and occasionally collecting video games and Pokémon cards.
 
-### [Personal Site](https://tiernebre.com/)
+### 👀 Links to learn more about me!
+
+- [Personal Website](https://tiernebre.com/)
+- [LinkedIn](https://www.linkedin.com/in/tierney-brendan/)
+- [Resume](https://tiernebre.com/tierney_brendan_resume.pdf)
 
 ### 💻 Technologies I LOVE Using!
 
