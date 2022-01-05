@@ -12,7 +12,7 @@ Besides programming, I enjoy working with even more technology! This past year I
 
 ### 💖 Areas of Engineering I LOVE
 
-- Design Systems: Reducing friction between engineering, design, and product by building a robust suite of atomically designed components
+- Design Systems: Reducing friction between engineering, design, and product by building a robust suite of atomically designed components.
 - Web Accessibility: Ensuring that websites and web applications I build have equal access to all users around the globe.
 - Testing: Building comprehensive automation for testing (especially with utilities like Jest, Cypress, and the DOM Testing Library).
 - CI/CD Automation: Crafting pipelines to help deploy code safely, securely, and most importantly: FAST!!
