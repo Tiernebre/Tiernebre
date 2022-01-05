@@ -10,6 +10,13 @@ Since graduating, I've been working as a software engineer helping companies and
 
 Besides programming, I enjoy working with even more technology! This past year I setup a home server to serve as a file storage backup and media hoster on my network. I also enjoy cycling, playing video games, and occasionally collecting video games and Pokémon cards.
 
+### 📝 Areas of Engineering I LOVE
+
+- Design Systems: Reducing friction between engineering, design, and product by building a robust suite of atomically designed components
+- Web Accessibility: Ensuring that websites and web applications I build have equal access to all users around the globe.
+- Testing: Building comprehensive automation for testing (especially with utilities like Jest, Cypress, and the DOM Testing Library).
+- CI/CD Automation: Crafting pipelines to help deploy code safely, securely, and most importantly: FAST!!
+
 ### 👀 Links to learn more about me!
 
 - [Personal Website](https://tiernebre.com/)
