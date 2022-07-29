@@ -21,7 +21,6 @@ Besides programming, I enjoy working with even more technology! This past year I
 
 - [Personal Website](https://tiernebre.com/)
 - [LinkedIn](https://www.linkedin.com/in/tierney-brendan/)
-- [Resume](https://tiernebre.com/tierney_brendan_resume.pdf)
 
 ### 💻 Technologies I LOVE Using!
 
@@ -41,6 +40,4 @@ Besides programming, I enjoy working with even more technology! This past year I
 
 ### 🔭 I'm currently working on
 
-- [Ninjask - Web application for organizing challenge runs of the Pokemon games with friends](https://github.com/Tiernebre/ninjask)
-- [Kecleon - My own personal Design System / Front-End Toolkit](https://github.com/Tiernebre/kecleon)
 - [Zone Blitz - A College Football simulator](https://github.com/Tiernebre/zone-blitz)
